@@ -1,0 +1,12 @@
+---
+title: "Part 1_Assessment 3"
+author: "Ameeta"
+date: "2025-09-17"
+output: pdf_document
+---
+
+Download the fie for "gene_expression.tsv” and “growth_data.csv”
+```{r}
+download.file("https://github.com/ghazkha/Assessment4.git", destfile = "geneexpressionandgrowthdata")
+```
+
